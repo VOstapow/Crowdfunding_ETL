@@ -1,4 +1,4 @@
-# Group 1 
+# BUILDING AN ETL PIPELINE USING Python, Pandas
 Members: Leah Nash 💎 Sandra Braun 💎 Jared Hubert 💎 Veronica Ostapowich 💎
 
 ## Overview
