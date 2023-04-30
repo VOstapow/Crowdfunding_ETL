@@ -22,7 +22,7 @@ Once we built the database with SQL further analysis can be performed and report
 
 ## Entity Relationship Diagram (ERD)
 
-<img src="https://github.com/VOstapow/leaflet-challenge/blob/main/Leaflet-Part-1-and-2/Images/Satellite.jpg" width="200" />
+<img src="Resources/ERD.png" width="200" />
 
 ## Summary
 We have learned that ETL process facilitates performance and helps in performing data analysis on database with ease and in less time making it more efficient.
